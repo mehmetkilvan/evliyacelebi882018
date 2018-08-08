@@ -1,0 +1,13 @@
+.blok1{
+	border: solid 2px red;
+	width: 200px;
+	float: left;
+	padding: 10px;
+}
+td {
+	text-align: center !important;
+}
+/* Burası Yorum Satırıdır */
+.ortala {
+ 	text-align: center;
+}
